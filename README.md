@@ -10,7 +10,7 @@
 
 <br>
 
-## I've learned learning...
+## I've learned...
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-programming.png"/>
 
 <img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/344/c-sharp-logo.png"/>
