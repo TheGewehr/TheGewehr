@@ -1,4 +1,4 @@
-# Hi there, I'm Víctor! 👋
+# Hi there, I'm Alexandre! 👋
 
 - 🌱 Studying Videogame Design and Development at CITM(UPC).
 - 🕹️ Interested in getting an Internship in the video games industry to gain experience in programming and production.
